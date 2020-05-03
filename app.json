@@ -25,7 +25,6 @@
       "supportsTablet": true
     },
     "android": {
-      "permission": [],
       "package": "com.sylverius.tictactoe",
       "versionCode": 1
     }
